@@ -12,11 +12,13 @@ com.rapidminer.extension.indatabase.provider
 com.rapidminer.extension.indatabase.provider.bigquery
 com.rapidminer.extension.indatabase.provider.embedded
 com.rapidminer.extension.indatabase.provider.jdbc
+com.rapidminer.extension.indatabase.provider.mssql
 com.rapidminer.extension.indatabase.provider.mysql
 com.rapidminer.extension.indatabase.provider.other
 com.rapidminer.extension.indatabase.provider.postgresql
 com.rapidminer.extension.indatabase.quickfix
 com.rapidminer.extension.indatabase.sql
 com.rapidminer.extension.indatabase.sql.bigquery
+com.rapidminer.extension.indatabase.sql.mssql
 com.rapidminer.extension.indatabase.sql.mysql
-com.rapidminer.extension.indatabase.sql.postgresql
+com.rapidminer.extension.indatabase.sql.shared
